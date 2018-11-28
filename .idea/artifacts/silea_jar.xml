@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="silea:jar">
+    <output-path>$USER_HOME$/Desktop/silea</output-path>
+    <root id="archive" name="silea.jar">
+      <element id="module-output" name="silea" />
+    </root>
+  </artifact>
+</component>
